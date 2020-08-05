@@ -54,8 +54,11 @@
     <Reference Include="System.Runtime.Serialization" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Sorting.cs" />
-    <Compile Include="BubbleSort.cs" />
+    <Compile Include="Sorting2.cs" />
+    <Compile Include="Sorting1.cs" />
+    <Compile Include="Sorting3.cs" />
+    <Compile Include="Sorting4.cs" />
+    <Compile Include="SortTesting.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
