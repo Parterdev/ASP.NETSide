@@ -54,6 +54,7 @@
     <Reference Include="System.Runtime.Serialization" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GamerName.cs" />
     <Compile Include="ShellSorting.cs" />
     <Compile Include="BubbleSorting.cs" />
     <Compile Include="HeapSorting.cs" />

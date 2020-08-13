@@ -74,6 +74,17 @@ namespace MyFirstUnitTest
 
         }
 
+        //Metodo de prueba Buscaminas
+        [TestMethod]
+        public void RetornaNombreJugador()
+        {
+            var jugador = new GamerName();
+            var resultado = jugador.Add("Pepito");
+
+            Assert.AreEqual("Pepito", resultado);
+
+        }
+
 
     }
 }
