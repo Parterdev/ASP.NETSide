@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstUnitTest", "MyFirstUnitTest\MyFirstUnitTest.csproj", "{A64E4E9C-51DD-4A35-89B7-35FDEAB82E57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDUnitTests", "MyFirstUnitTest\TDDUnitTests.csproj", "{A64E4E9C-51DD-4A35-89B7-35FDEAB82E57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraMatrices.Test", "CalculadoraMatrices.Test\CalculadoraMatrices.Test.csproj", "{0103D1BD-C21A-4988-A5F7-FC2A8819ED6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraMatrices.Test", "CalculadoraMatrices.Test\CalculadoraMatrices.Test.csproj", "{0103D1BD-C21A-4988-A5F7-FC2A8819ED6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hilos.Consola.App", "Hilos.Consola.App\Hilos.Consola.App.csproj", "{C4BD037C-C5C3-48BF-97CF-940EF0FD879F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceCarGame.App", "RaceCarGame.App\RaceCarGame.App.csproj", "{D00D7C73-5E50-4A63-AF1C-76A9548DFFBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{0103D1BD-C21A-4988-A5F7-FC2A8819ED6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0103D1BD-C21A-4988-A5F7-FC2A8819ED6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0103D1BD-C21A-4988-A5F7-FC2A8819ED6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4BD037C-C5C3-48BF-97CF-940EF0FD879F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BD037C-C5C3-48BF-97CF-940EF0FD879F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BD037C-C5C3-48BF-97CF-940EF0FD879F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BD037C-C5C3-48BF-97CF-940EF0FD879F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00D7C73-5E50-4A63-AF1C-76A9548DFFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00D7C73-5E50-4A63-AF1C-76A9548DFFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00D7C73-5E50-4A63-AF1C-76A9548DFFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00D7C73-5E50-4A63-AF1C-76A9548DFFBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

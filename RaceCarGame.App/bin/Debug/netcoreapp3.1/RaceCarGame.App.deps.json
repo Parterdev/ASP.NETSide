@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RaceCarGame.App/1.0.0": {
+        "dependencies": {
+          "RazorEngine": "3.10.0"
+        },
+        "runtime": {
+          "RaceCarGame.App.dll": {}
+        }
+      },
+      "RazorEngine/3.10.0": {
+        "runtime": {
+          "lib/net45/RazorEngine.dll": {
+            "assemblyVersion": "3.10.0.0",
+            "fileVersion": "3.10.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RaceCarGame.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RazorEngine/3.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xWjGSjhMTM+Qzh3kabsRXR7kpCZQALbYGGYrOPc7wf6IBeDee4OVuO/LRTgWpgIFA8W/widTfszLBm0MfVHRGg==",
+      "path": "razorengine/3.10.0",
+      "hashPath": "razorengine.3.10.0.nupkg.sha512"
+    }
+  }
+}

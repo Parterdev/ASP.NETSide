@@ -1,0 +1,14 @@
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\bin\Debug\netcoreapp3.1\RaceCarGame.App.exe
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\bin\Debug\netcoreapp3.1\RaceCarGame.App.deps.json
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\bin\Debug\netcoreapp3.1\RaceCarGame.App.runtimeconfig.json
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\bin\Debug\netcoreapp3.1\RaceCarGame.App.runtimeconfig.dev.json
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\bin\Debug\netcoreapp3.1\RaceCarGame.App.dll
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\bin\Debug\netcoreapp3.1\RaceCarGame.App.pdb
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\bin\Debug\netcoreapp3.1\RazorEngine.dll
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\obj\Debug\netcoreapp3.1\RaceCarGame.App.AssemblyInfoInputs.cache
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\obj\Debug\netcoreapp3.1\RaceCarGame.App.AssemblyInfo.cs
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\obj\Debug\netcoreapp3.1\RaceCarGame.App.csproj.CoreCompileInputs.cache
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\obj\Debug\netcoreapp3.1\RaceCarGame.App.csproj.CopyComplete
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\obj\Debug\netcoreapp3.1\RaceCarGame.App.dll
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\obj\Debug\netcoreapp3.1\RaceCarGame.App.pdb
+C:\Users\litem\source\repos\FirstUnitTest\RaceCarGame.App\obj\Debug\netcoreapp3.1\RaceCarGame.App.genruntimeconfig.cache
